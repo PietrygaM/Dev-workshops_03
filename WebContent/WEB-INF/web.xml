@@ -10,9 +10,8 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
 
-
 <contex-param>
-<param-name>number-solution</param-name>
+<param-name>number-solutions</param-name>
 <param-value>5</param-value>
 </contex-param>
 
